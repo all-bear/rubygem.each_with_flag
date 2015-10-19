@@ -1,0 +1,8 @@
+* CHANGES
+* README.md
+* MANIFEST
+* Rakefile
+* each_with_flag.gemspec
+* lib/enumerable/each_with_flag.rb
+* lib/each_with_flag.rb
+* test/test_each_with_flag.rb
